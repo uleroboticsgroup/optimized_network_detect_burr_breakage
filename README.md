@@ -6,7 +6,11 @@
 
 
 ## Accuracy
-![accuracy](results/img_matrix_accuracy.png)
+![accuracy](results/img_compare_fixed_accuracy.png)
+
+
+## Sensitivity
+![sensitivity](results/img_compare_fixed_sensivity.png)
 
 ## Performance metrics (time and trainable parameters)
-![performance](results/img_matrix_train.png)
+![performance](results/img_matrix_fixed_weighted_computational.png)
